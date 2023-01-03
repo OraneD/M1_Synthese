@@ -173445,6 +173445,7 @@ zézayés	zezeje
 élancements	elAs@mA
 élancent	elAs
 s'élancent	selAs
+s'élance	selAs
 élancer	elAse
 élancera	elAs@Ra
 élancerai	elAs@Re
